@@ -13,7 +13,7 @@ https://www.youtube.com/playlist?list=PLI6pJZaOCtF3s0_Mcwr2AT75DX3Q_SfDh
 
 ## [2]參考資料
 
-### 機器學習 HTML （by 林軒田老師）（*Machine Learning Foundations + Techniques）
+### 機器學習 HTML （by 林軒田老師）（*基石+技法，從數學原理學習ML）
 https://www.csie.ntu.edu.tw/~htlin/mooc/
 
 ### 機器學習 ML2023 （by 李宏毅老師）（*談談生成式模型與基石模型的未來）
