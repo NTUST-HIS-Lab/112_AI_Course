@@ -9,11 +9,12 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php （滑到頁面末尾的H
 
 ### 數位影像處理 （by 陳永耀老師）（*數位影像基礎觀念）
 https://www.youtube.com/playlist?list=PLI6pJZaOCtF3s0_Mcwr2AT75DX3Q_SfDh
-- 後續規劃中
+- 數位影像處理基礎觀念
+- 將於ML2021結束后再做規劃
 
 ## [2]參考資料
 
-### 機器學習 HTML （by 林軒田老師）（*基石+技法，從數學原理學習ML）
+### 機器學習 HTML （by 林軒田老師）（*基石+技法，從數學出發學習ML）
 https://www.csie.ntu.edu.tw/~htlin/mooc/
 
 ### 機器學習 ML2023 （by 李宏毅老師）（*談談生成式模型與基石模型的未來）
