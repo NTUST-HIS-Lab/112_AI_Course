@@ -40,7 +40,7 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 	- 更新(新增)此repo中README.md中的會議記錄鏈接（雲端鏈接）
 
 ## [6]會議記錄鏈接
-week0: www.google.com
-week1: ...
+- week0: www.google.com
+- week1: ...
 
 
