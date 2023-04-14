@@ -1,7 +1,7 @@
 # 112_AI_Course
 
 ## [1]主軸課程 
-### ML2021 （by 李宏毅老師）
+### 機器學習 ML2021 （by 李宏毅老師）
 https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php （滑到頁面末尾的HOMEWORK列表哦）
 - 頁面列表中的"Colab Tutorial" 與 "Pytorch Tutorial" 請自行觀看學習
 - 報告内容從 "HW1 Regression" 開始
@@ -9,6 +9,7 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php （滑到頁面末尾的H
 
 ### 數位影像處理 （by 陳永耀老師）（*數位影像基礎觀念）
 https://www.youtube.com/playlist?list=PLI6pJZaOCtF3s0_Mcwr2AT75DX3Q_SfDh
+- 後續規劃中
 
 ## [2]參考資料
 
