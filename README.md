@@ -7,9 +7,10 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php （滑到頁面末尾的H
 - 報告内容從 "HW1 Regression" 開始
 - 目前主軸課程預計持續 15 周
 
-## [2]參考資料
 ### 數位影像處理 （by 陳永耀老師）（*數位影像基礎觀念）
 https://www.youtube.com/playlist?list=PLI6pJZaOCtF3s0_Mcwr2AT75DX3Q_SfDh
+
+## [2]參考資料
 
 ### 機器學習 HTML （by 林軒田老師）（*Machine Learning Foundations + Techniques）
 https://www.csie.ntu.edu.tw/~htlin/mooc/
