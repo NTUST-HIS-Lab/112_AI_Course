@@ -8,9 +8,9 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php （滑到頁面末尾的H
 - 目前主軸課程預計持續 15 周
 
 ### 數位影像處理 （by 陳永耀老師）（*數位影像基礎觀念）
-https://www.youtube.com/playlist?list=PLI6pJZaOCtF3s0_Mcwr2AT75DX3Q_SfDh
+https://univ.deltamoocx.net/courses/course-v1:AT+AT_012_1101+2021_09_13/about
 - 數位影像處理基礎觀念
-- 將於ML2021結束后再做規劃
+- 課程總共有14周，一人請至少負責一個單元
 
 ## [2]參考資料
 
