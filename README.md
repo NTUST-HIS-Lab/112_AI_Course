@@ -28,11 +28,12 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 
 ## [4]存檔路徑示例
 ```bash
-./
-	/week1
-		slide.pptx
-		/code/hw1.py
-	/week2
+├─root
+│  ├─week1
+│  │  └─slide.pptx
+│  │  └─code
+│  │     └─hw1.py
+│  └─week2
 	...
 ```
 
