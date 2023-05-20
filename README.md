@@ -45,5 +45,6 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 
 ## [6]會議記錄鏈接
 - week2: [Regression](https://drive.google.com/file/d/1FcV4Eidj8GbkbB5Lr4RWfk3kg4Fqz3cr/view?usp=share_link)
+- week3: [Gradient Descent](https://drive.google.com/file/d/1GrQuSP6CrGMjV5BfndGuwasM4EDT-hp0/view?usp=share_link)
 
 
