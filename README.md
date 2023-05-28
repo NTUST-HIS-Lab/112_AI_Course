@@ -44,7 +44,9 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 	- 更新(新增)此repo中README.md中的會議記錄鏈接（雲端鏈接）
 
 ## [6]會議記錄鏈接
-- week2: [Regression](https://drive.google.com/file/d/1FcV4Eidj8GbkbB5Lr4RWfk3kg4Fqz3cr/view?usp=share_link)
-- week3: [Gradient Descent](https://drive.google.com/file/d/1GrQuSP6CrGMjV5BfndGuwasM4EDT-hp0/view?usp=share_link)
+- week02: [Regression](https://drive.google.com/file/d/1FcV4Eidj8GbkbB5Lr4RWfk3kg4Fqz3cr/view?usp=share_link)
+- week03: [Gradient Descent](https://drive.google.com/file/d/1GrQuSP6CrGMjV5BfndGuwasM4EDT-hp0/view?usp=share_link)
+- week04: [Classification](https://drive.google.com/file/d/1FTAWXsRBNnqW0Gk-YFlrousnaefRiv16/view?usp=share_link)
+- week05: [Deep Learning](https://drive.google.com/file/d/1Q4O3n2f6XHjqmpssK8rG0cjqwT5e3VMc/view?usp=share_link)
 
 
