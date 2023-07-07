@@ -51,5 +51,6 @@ https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 - week06: [CNN](https://drive.google.com/file/d/1KLVwj5bnveTdbTKsf7NuIB24qnfHIgjS/view?usp=drive_link), [ML2021&ML2020 HW03 - CNN](https://drive.google.com/file/d/1uZUVKKUZVtoUa9QXxzucAdA9umG7QulC/view?usp=drive_link), [數位影像處理](https://drive.google.com/file/d/1C2uVXD_DlrZj6ZYWjnzByFMC9pFON5V8/view?usp=drive_link)
 - week07: [Explainable AI](https://drive.google.com/file/d/17ZAMYBjdrcWyAraU1eRmcMjIzaYKqeGD/view?usp=drive_link)
 - week08: [Network Compression](https://drive.google.com/file/d/1IY6MMGIcnTz07-7-sZFj6Nb5eW8EzIkY/view?usp=sharing)
+- week09: [Unsupervised Learning 01](https://drive.google.com/file/d/1qHK8nnJ1M66jCuMZ9Y7LIdULmw3U8fMk/view?usp=drive_link), [Unsupervised Learning 02](https://drive.google.com/file/d/1tdfRDHra66TQPsA2pTqgKCnpV-qqKUFW/view?usp=drive_link)
 
 
